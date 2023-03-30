@@ -1,0 +1,22 @@
+.blog{
+    width: 850px;
+    height: 700px;
+    /* border: 1px solid black; */
+}
+.profile-pic{
+    width: 60px;
+    height: 60px;
+    border: 1px solid red;
+}
+p{
+    color: grey;
+}
+.btn-mark{
+    border: 0;
+    background-color: white;
+    text-decoration: underline;
+    color: #6047EC;
+}
+.btn-bookmark:hover{
+    color: purple;
+}
