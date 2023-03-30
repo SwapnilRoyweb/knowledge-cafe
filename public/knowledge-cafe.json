@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Swapnil Roy",
+        "auth-img": "img.freepik.com/free-photo/happy-good-looking-man-glasses-pointing-finger-left_176420-21192.jpg?w=1060&t=st=1680189039~exp=1680189639~hmac=74d3c5b073a9d9a7f0feae2e5dcc4c666b45b176927429f1c5581420fd963178",
+        "cover": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?w=1060&t=st=1680188032~exp=1680188632~hmac=694e749fe4ea2e0dcb378f2982139c8987caba9d6ac925d75580c8044affd025",
+        "title": "How to get your first job as a programmer",
+        "published": "Mar 14 (10 days ago)",
+        "read-time": "05 min read"
+    },
+    {
+        "id": "2",
+        "name": "Nil Roy",
+        "auth-img": "img.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg?w=1060&t=st=1680189060~exp=1680189660~hmac=1bf64f694dd8658d4da18ce8a5c56e37dae1e60d33af417b2260affcafcd6e29",
+        "cover": "https://img.freepik.com/free-photo/ai-technology-microchip-background-digital-transformation-concept_53876-124669.jpg?w=1060&t=st=1680188146~exp=1680188746~hmac=c58b873413cbbda2ac3aec0e132a4ea901dda211c53bef360c08ecd60073f3d8",
+        "title": "What you can do with AI?",
+        "published": "Mar 10 (20 days ago)",
+        "read-time": "05 min read"
+    },
+    {
+        "id": "3",
+        "name": "Roy & Family",
+        "auth-img": "https://img.freepik.com/free-photo/bohemian-man-with-his-arms-crossed_1368-3542.jpg?w=740&t=st=1680189083~exp=1680189683~hmac=dd045440da4c8b396cdac5f03897b6c97d99231634ac1f7c4437d26842cddb9c",
+        "cover": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010127.jpg?w=1060&t=st=1680188239~exp=1680188839~hmac=29eb564ba5dac5dcd7c006a4aebfa053f30fac2a3ef86ac0d846aa07b5563824",
+        "title": "Roadmap for Web Development",
+        "published": "Mar 15 (9 days ago)",
+        "read-time": "10 min read"
+    },
+    {
+        "id": "4",
+        "name": "Arpa Biswas",
+        "auth-img": "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?w=1060&t=st=1680189118~exp=1680189718~hmac=394c37056ca89d65137ffdb04e85d3ea8609487c0c8a20fb037f100090d9baf1",
+        "cover": "https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?w=1060&t=st=1680188311~exp=1680188911~hmac=8777097aaf052ae49217c8298e84022c70dadb0250bb854be193ffb69349d3c0",
+        "title": "From zero to Pro programmer",
+        "published": "Mar 20 (9 days ago)",
+        "read-time": "05 min read"
+    }
+]
