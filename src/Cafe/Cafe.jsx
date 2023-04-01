@@ -17,10 +17,10 @@ const Cafe = () => {
 
     const handleBookmarked = (cafe) => {
         const title = cafe.title;
-        const exist = bookMarked.find(b => b.id == cafe.id);
-        if(exist){
-            toast('Have');
-        }
+        // const exist = bookMarked.find(b => b.id == cafe.id);
+        // if(exist){
+        //     toast('Have');
+        // }
         setBookMarked([...bookMarked, title]);
         }
 
