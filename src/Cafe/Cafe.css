@@ -1,0 +1,13 @@
+.read-time{
+    background-color: rgba(96, 71, 236, 0.1);
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #6047EC;
+}
+.read-time p{
+    color: #6047EC;
+    margin-top: 10px;
+}
+.grey{
+    background-color: lightgray;
+}

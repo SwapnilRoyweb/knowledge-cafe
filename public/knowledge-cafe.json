@@ -6,7 +6,7 @@
         "cover": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?w=1060&t=st=1680188032~exp=1680188632~hmac=694e749fe4ea2e0dcb378f2982139c8987caba9d6ac925d75580c8044affd025",
         "title": "How to get your first job as a programmer.....",
         "published": "Mar 14 (10 days ago)",
-        "read": "05 min read"
+        "read": "5"
     },
     {
         "id": "2",
@@ -15,7 +15,7 @@
         "cover": "https://img.freepik.com/free-photo/ai-technology-microchip-background-digital-transformation-concept_53876-124669.jpg?w=1060&t=st=1680188146~exp=1680188746~hmac=c58b873413cbbda2ac3aec0e132a4ea901dda211c53bef360c08ecd60073f3d8",
         "title": "What can we do with AI?",
         "published": "Mar 10 (20 days ago)",
-        "read": "05 min read"
+        "read": "5"
     },
     {
         "id": "3",
@@ -24,7 +24,7 @@
         "cover": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010127.jpg?w=1060&t=st=1680188239~exp=1680188839~hmac=29eb564ba5dac5dcd7c006a4aebfa053f30fac2a3ef86ac0d846aa07b5563824",
         "title": "Roadmap for Web Development.....",
         "published": "Mar 15 (9 days ago)",
-        "read": "10 min read"
+        "read": "10"
     },
     {
         "id": "4",
@@ -33,6 +33,6 @@
         "cover": "https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?w=1060&t=st=1680188311~exp=1680188911~hmac=8777097aaf052ae49217c8298e84022c70dadb0250bb854be193ffb69349d3c0",
         "title": "From zero to Pro programmer.....",
         "published": "Mar 20 (9 days ago)",
-        "read": "05 min read"
+        "read": "5"
     }
 ]
