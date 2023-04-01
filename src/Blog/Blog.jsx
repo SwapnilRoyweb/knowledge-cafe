@@ -17,7 +17,7 @@ const Blog = ({cafe, handleBookmarked, handleMarkAsRead}) => {
                 </div>
                 <div className='d-flex'>
                     <p>{read} min read</p>
-                    <button className='h-25 bg-light border-0 btn-bookmark' onClick={() => handleBookmarked(title)}><FontAwesomeIcon icon={faBookmark}/></button>
+                    <button className='h-25 bg-light border-0 btn-bookmark' onClick={() => handleBookmarked(cafe)}><FontAwesomeIcon icon={faBookmark}/></button>
                 </div>
             </div>
             <div>

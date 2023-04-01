@@ -1,6 +1,7 @@
 import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
+import { ToastContainer, toast } from 'react-toastify';
 import Blog from '../Blog/Blog';
 import './Cafe.css';
 const Cafe = () => {
@@ -14,12 +15,13 @@ const Cafe = () => {
         .then(data => setCafes(data))
     }, []);
 
-    useEffect(() => {
-        
-    }, []);
-    const handleBookmarked = (title) => {
-        const allTitle = [...bookMarked, title];
-        setBookMarked(allTitle);
+    const handleBookmarked = (cafe) => {
+        const title = cafe.title;
+        const exist = bookMarked.find(b => b.id == cafe.id);
+        if(exist){
+            toast('Have');
+        }
+        setBookMarked([...bookMarked, title]);
         }
 
         
