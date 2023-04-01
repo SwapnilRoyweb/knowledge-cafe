@@ -29,7 +29,7 @@ const Cafe = () => {
         }
     
     return (
-        <div className='container d-flex  justify-content-between g-3'>
+        <div className='container d-flex flex-column flex-md-row justify-content-between g-3'>
             <div>
             {
                 cafes.map(cafe => <Blog cafe={cafe} key={cafe.id} handleBookmarked={handleBookmarked} handleMarkAsRead={handleMarkAsRead}></Blog>)
